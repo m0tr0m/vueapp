@@ -9,11 +9,4 @@ import HelloWorld from './components/HelloWorld.vue'
 </template>
 
 <style>
-html, body, #app {
-  @apply w-full h-full
-}
-body, .dark-world {
-  @apply dark:bg-neutral-800 dark:text-neutral-100
-}
-
 </style>
